@@ -3,3 +3,4 @@ membuat template
 disini konfigurasi disimpan dan dijalankan untuk
 awalan change management system github R17
 setiap perubahan dan konfigurasi switch diupload kemari
+jangan dimasukin password dan username disini
